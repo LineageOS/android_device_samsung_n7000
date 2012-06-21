@@ -28,4 +28,8 @@
     <string name="category_radio_title">Rádio</string>
     <string name="hspa_title_head">HSPA</string>
     <string name="hspa_summary_head">Ativar HSDPA/HSUPA</string>
+    <string name="category_haptic_title">Resposta Tátil</string>
+    <string name="vibrator_subcat_title">Vibração</string>
+    <string name="vibrator_intensity_title_head">Intesidade da Vibração</string>
+    <string name="vibrator_intensity_summary_head">Define a intensidade da vibração</string>
 </resources>
