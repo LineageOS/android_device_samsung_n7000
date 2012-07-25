@@ -33,6 +33,8 @@ public class Startup extends BroadcastReceiver {
         VibratorIntensity.restore(context);
         SensorsFragmentActivity.restore(context);
         TouchkeyTimeout.restore(context);
+        PenHand.restore(context);
+        PenOffset.restore(context);
     }
 
 }
