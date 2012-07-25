@@ -217,6 +217,25 @@ on post-fs-data
     chown system radio /sys/devices/virtual/sec/sec_touchscreen/tsp_config_version
     chown system radio /sys/devices/virtual/sec/sec_touchscreen/tsp_touchtype
 
+    chown system radio /sys/class/sec/sec_epen/epen_hand
+    chown system radio /sys/class/sec/sec_epen/epen_rotation
+    chown system radio /sys/class/sec/sec_epen/tilt_offset_x_h0_r0
+    chown system radio /sys/class/sec/sec_epen/tilt_offset_x_h0_r1
+    chown system radio /sys/class/sec/sec_epen/tilt_offset_x_h0_r2
+    chown system radio /sys/class/sec/sec_epen/tilt_offset_x_h0_r3
+    chown system radio /sys/class/sec/sec_epen/tilt_offset_x_h1_r0
+    chown system radio /sys/class/sec/sec_epen/tilt_offset_x_h1_r1
+    chown system radio /sys/class/sec/sec_epen/tilt_offset_x_h1_r2
+    chown system radio /sys/class/sec/sec_epen/tilt_offset_x_h1_r3
+    chown system radio /sys/class/sec/sec_epen/tilt_offset_y_h0_r0
+    chown system radio /sys/class/sec/sec_epen/tilt_offset_y_h0_r1
+    chown system radio /sys/class/sec/sec_epen/tilt_offset_y_h0_r2
+    chown system radio /sys/class/sec/sec_epen/tilt_offset_y_h0_r3
+    chown system radio /sys/class/sec/sec_epen/tilt_offset_y_h1_r0
+    chown system radio /sys/class/sec/sec_epen/tilt_offset_y_h1_r1
+    chown system radio /sys/class/sec/sec_epen/tilt_offset_y_h1_r2
+    chown system radio /sys/class/sec/sec_epen/tilt_offset_y_h1_r3
+
 # Permissions for bluetooth
     setprop ro.bt.bdaddr_path "/efs/bluetooth/bt_addr"
     chown bluetooth bluetooth ro.bt.bdaddr_path

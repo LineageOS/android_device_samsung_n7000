@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.cyanogenmod.settings.device.PenHand
+        android:key="pen_hand"
+        android:title="@string/pen_hand_head"
+        android:summary="@string/pen_hand_summary_head"
+        android:switchTextOff="@string/pen_left_hand_switch_text"
+        android:switchTextOn="@string/pen_right_hand_switch_text"
+        android:defaultValue="true" />
+    <com.cyanogenmod.settings.device.PenOffset
+        direction="x"
+        hand="left"
+        rotation="0"
+        android:key="tilt_offset_x_h0_r0"
+        android:title="@string/pen_offset_x_h0_r0_title_head"
+        android:summary="@string/pen_offset_x_h0_r0_summary_head"
+        android:entries="@array/pen_offset_entries"
+        android:entryValues="@array/pen_offset_entries_values"
+        android:defaultValue="120" />
+    <com.cyanogenmod.settings.device.PenOffset
+        direction="y"
+        hand="left"
+        rotation="0"
+        android:key="tilt_offset_y_h0_r0"
+        android:title="@string/pen_offset_y_h0_r0_title_head"
+        android:summary="@string/pen_offset_y_h0_r0_summary_head"
+        android:entries="@array/pen_offset_entries"
+        android:entryValues="@array/pen_offset_entries_values"
+        android:defaultValue="-110" />
+    <com.cyanogenmod.settings.device.PenOffset
+        direction="y"
+        hand="left"
+        rotation="1"
+        android:key="tilt_offset_y_h0_r1"
+        android:title="@string/pen_offset_x_h0_r1_title_head"
+        android:summary="@string/pen_offset_x_h0_r1_summary_head"
+        android:entries="@array/pen_offset_entries"
+        android:entryValues="@array/pen_offset_entries_values"
+        android:defaultValue="110" />
+    <com.cyanogenmod.settings.device.PenOffset
+        direction="x"
+        hand="left"
+        rotation="1"
+        android:key="tilt_offset_x_h0_r1"
+        android:title="@string/pen_offset_y_h0_r1_title_head"
+        android:summary="@string/pen_offset_y_h0_r1_summary_head"
+        android:entries="@array/pen_offset_entries"
+        android:entryValues="@array/pen_offset_entries_reverse_values"
+        android:defaultValue="110" />
+    <com.cyanogenmod.settings.device.PenOffset
+        direction="x"
+        hand="left"
+        rotation="2"
+        android:key="tilt_offset_x_h0_r2"
+        android:title="@string/pen_offset_x_h0_r2_title_head"
+        android:summary="@string/pen_offset_x_h0_r2_summary_head"
+        android:entries="@array/pen_offset_entries"
+        android:entryValues="@array/pen_offset_entries_reverse_values"
+        android:defaultValue="-85" />
+    <com.cyanogenmod.settings.device.PenOffset
+        direction="y"
+        hand="left"
+        rotation="2"
+        android:key="tilt_offset_y_h0_r2"
+        android:title="@string/pen_offset_y_h0_r2_title_head"
+        android:summary="@string/pen_offset_y_h0_r2_summary_head"
+        android:entries="@array/pen_offset_entries"
+        android:entryValues="@array/pen_offset_entries_reverse_values"
+        android:defaultValue="110" />
+    <com.cyanogenmod.settings.device.PenOffset
+        direction="y"
+        hand="left"
+        rotation="3"
+        android:key="tilt_offset_y_h0_r3"
+        android:title="@string/pen_offset_x_h0_r3_title_head"
+        android:summary="@string/pen_offset_x_h0_r3_summary_head"
+        android:entries="@array/pen_offset_entries"
+        android:entryValues="@array/pen_offset_entries_reverse_values"
+        android:defaultValue="-110" />
+    <com.cyanogenmod.settings.device.PenOffset
+        direction="x"
+        hand="left"
+        rotation="3"
+        android:key="tilt_offset_x_h0_r3"
+        android:title="@string/pen_offset_y_h0_r3_title_head"
+        android:summary="@string/pen_offset_y_h0_r3_summary_head"
+        android:entries="@array/pen_offset_entries"
+        android:entryValues="@array/pen_offset_entries_values"
+        android:defaultValue="-150" />
+    <com.cyanogenmod.settings.device.PenOffset
+        direction="x"
+        hand="right"
+        rotation="0"
+        android:key="tilt_offset_x_h1_r0"
+        android:title="@string/pen_offset_x_h1_r0_title_head"
+        android:summary="@string/pen_offset_x_h1_r0_summary_head"
+        android:entries="@array/pen_offset_entries"
+        android:entryValues="@array/pen_offset_entries_values"
+        android:defaultValue="-120" />
+    <com.cyanogenmod.settings.device.PenOffset
+        direction="y"
+        hand="right"
+        rotation="0"
+        android:key="tilt_offset_y_h1_r0"
+        android:title="@string/pen_offset_y_h1_r0_title_head"
+        android:summary="@string/pen_offset_y_h1_r0_summary_head"
+        android:entries="@array/pen_offset_entries"
+        android:entryValues="@array/pen_offset_entries_values"
+        android:defaultValue="-130" />
+    <com.cyanogenmod.settings.device.PenOffset
+        direction="y"
+        hand="right"
+        rotation="1"
+        android:key="tilt_offset_y_h1_r1"
+        android:title="@string/pen_offset_x_h1_r1_title_head"
+        android:summary="@string/pen_offset_x_h1_r1_summary_head"
+        android:entries="@array/pen_offset_entries"
+        android:entryValues="@array/pen_offset_entries_values"
+        android:defaultValue="120" />
+    <com.cyanogenmod.settings.device.PenOffset
+        direction="x"
+        hand="right"
+        rotation="1"
+        android:key="tilt_offset_x_h1_r1"
+        android:title="@string/pen_offset_y_h1_r1_title_head"
+        android:summary="@string/pen_offset_y_h1_r1_summary_head"
+        android:entries="@array/pen_offset_entries"
+        android:entryValues="@array/pen_offset_entries_reverse_values"
+        android:defaultValue="-110" />
+    <com.cyanogenmod.settings.device.PenOffset
+        direction="x"
+        hand="right"
+        rotation="2"
+        android:key="tilt_offset_x_h1_r2"
+        android:title="@string/pen_offset_x_h1_r2_title_head"
+        android:summary="@string/pen_offset_x_h1_r2_summary_head"
+        android:entries="@array/pen_offset_entries"
+        android:entryValues="@array/pen_offset_entries_reverse_values"
+        android:defaultValue="60" />
+    <com.cyanogenmod.settings.device.PenOffset
+        direction="y"
+        hand="right"
+        rotation="2"
+        android:key="tilt_offset_y_h1_r2"
+        android:title="@string/pen_offset_y_h1_r2_title_head"
+        android:summary="@string/pen_offset_y_h1_r2_summary_head"
+        android:entries="@array/pen_offset_entries"
+        android:entryValues="@array/pen_offset_entries_reverse_values"
+        android:defaultValue="130" />
+    <com.cyanogenmod.settings.device.PenOffset
+        direction="y"
+        hand="right"
+        rotation="3"
+        android:key="tilt_offset_y_h1_r3"
+        android:title="@string/pen_offset_x_h1_r3_title_head"
+        android:summary="@string/pen_offset_x_h1_r3_summary_head"
+        android:entries="@array/pen_offset_entries"
+        android:entryValues="@array/pen_offset_entries_reverse_values"
+        android:defaultValue="-130" />
+    <com.cyanogenmod.settings.device.PenOffset
+        direction="x"
+        hand="right"
+        rotation="3"
+        invert="false"
+        android:key="tilt_offset_x_h1_r3"
+        android:title="@string/pen_offset_y_h1_r3_title_head"
+        android:summary="@string/pen_offset_y_h1_r3_summary_head"
+        android:entries="@array/pen_offset_entries"
+        android:entryValues="@array/pen_offset_entries_values"
+        android:defaultValue="70" />
+</PreferenceScreen>
