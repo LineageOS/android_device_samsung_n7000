@@ -76,7 +76,7 @@
         android:summary="@string/pen_offset_x_h0_r3_summary_head"
         android:entries="@array/pen_offset_entries"
         android:entryValues="@array/pen_offset_entries_reverse_values"
-        android:defaultValue="-110" />
+        android:defaultValue="-150" />
     <com.cyanogenmod.settings.device.PenOffset
         direction="x"
         hand="left"
@@ -86,7 +86,7 @@
         android:summary="@string/pen_offset_y_h0_r3_summary_head"
         android:entries="@array/pen_offset_entries"
         android:entryValues="@array/pen_offset_entries_values"
-        android:defaultValue="-150" />
+        android:defaultValue="-110" />
     <com.cyanogenmod.settings.device.PenOffset
         direction="x"
         hand="right"
@@ -116,7 +116,7 @@
         android:summary="@string/pen_offset_x_h1_r1_summary_head"
         android:entries="@array/pen_offset_entries"
         android:entryValues="@array/pen_offset_entries_values"
-        android:defaultValue="120" />
+        android:defaultValue="-110" />
     <com.cyanogenmod.settings.device.PenOffset
         direction="x"
         hand="right"
@@ -126,7 +126,7 @@
         android:summary="@string/pen_offset_y_h1_r1_summary_head"
         android:entries="@array/pen_offset_entries"
         android:entryValues="@array/pen_offset_entries_reverse_values"
-        android:defaultValue="-110" />
+        android:defaultValue="120" />
     <com.cyanogenmod.settings.device.PenOffset
         direction="x"
         hand="right"
@@ -156,16 +156,15 @@
         android:summary="@string/pen_offset_x_h1_r3_summary_head"
         android:entries="@array/pen_offset_entries"
         android:entryValues="@array/pen_offset_entries_reverse_values"
-        android:defaultValue="-130" />
+        android:defaultValue="70" />
     <com.cyanogenmod.settings.device.PenOffset
         direction="x"
         hand="right"
         rotation="3"
-        invert="false"
         android:key="tilt_offset_x_h1_r3"
         android:title="@string/pen_offset_y_h1_r3_title_head"
         android:summary="@string/pen_offset_y_h1_r3_summary_head"
         android:entries="@array/pen_offset_entries"
         android:entryValues="@array/pen_offset_entries_values"
-        android:defaultValue="70" />
+        android:defaultValue="-130" />
 </PreferenceScreen>
