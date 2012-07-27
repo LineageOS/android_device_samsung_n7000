@@ -22,9 +22,15 @@
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
             </intent-filter>
         </receiver>
-      
+
         <activity android:name=".mDNIeFragmentActivity" />
         <activity android:name=".RadioFragmentActivity" />
-        
+
+        <service android:name=".PenRotationService">
+            <intent-filter>
+                <action android:name="com.cyanogenmod.settings.device.PenRotationService" />
+            </intent-filter>
+        </service>
+
     </application>
 </manifest>

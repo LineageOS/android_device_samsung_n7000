@@ -48,6 +48,9 @@ public class DeviceSettings extends FragmentActivity {
     public static final String KEY_TOUCHKEY_TIMEOUT = "touchkey_timeout";
     public static final String KEY_VIBRATOR_INTENSITY = "vibrator_intensity";
 
+    public static final String KEY_PEN_TILT_OFFSET_PREFIX = "tilt_offset_";
+    public static final String KEY_PEN_HAND = "pen_hand";
+
     ViewPager mViewPager;
     TabsAdapter mTabsAdapter;
 
@@ -73,6 +76,9 @@ public class DeviceSettings extends FragmentActivity {
                 SensorsFragmentActivity.class, null);
         mTabsAdapter.addTab(bar.newTab().setText(R.string.category_haptic_title),
                 HapticFragmentActivity.class, null);
+
+        mTabsAdapter.addTab(bar.newTab().setText(R.string.category_pen_title),
+                PenFragmentActivity.class, null);
 
         if (savedInstanceState != null) {
             bar.setSelectedNavigationItem(savedInstanceState.getInt("tab", 0));

@@ -39,4 +39,46 @@
     <string name="category_radio_title">Radio</string>
     <string name="hspa_title_head">HSPA</string>
     <string name="hspa_summary_head">Enable HSDPA/HSUPA</string>
+
+    <string name="category_pen_title">S-Pen</string>
+
+    <string name="pen_hand_head">Pen hand</string>
+    <string name="pen_hand_summary_head">Pen hand for pen offset computation</string>
+    <string name="pen_left_hand_switch_text">left</string>
+    <string name="pen_right_hand_switch_text">right</string>
+
+    <string name="pen_offset_x_h0_r0_title_head">Pen offset x, 0°, left hand</string>
+    <string name="pen_offset_y_h0_r0_title_head">Pen offset y, 0°, left hand</string>
+    <string name="pen_offset_x_h0_r1_title_head">Pen offset x, 90°, left hand</string>
+    <string name="pen_offset_y_h0_r1_title_head">Pen offset y, 90°, left hand</string>
+    <string name="pen_offset_x_h0_r2_title_head">Pen offset x, 180°, left hand</string>
+    <string name="pen_offset_y_h0_r2_title_head">Pen offset y, 180°, left hand</string>
+    <string name="pen_offset_x_h0_r3_title_head">Pen offset x, 270°, left hand</string>
+    <string name="pen_offset_y_h0_r3_title_head">Pen offset y, 270°, left hand</string>
+    <string name="pen_offset_x_h1_r0_title_head">Pen offset x, 0°, right hand</string>
+    <string name="pen_offset_y_h1_r0_title_head">Pen offset y, 0°, right hand</string>
+    <string name="pen_offset_x_h1_r1_title_head">Pen offset x, 90°, right hand</string>
+    <string name="pen_offset_y_h1_r1_title_head">Pen offset y, 90°, right hand</string>
+    <string name="pen_offset_x_h1_r2_title_head">Pen offset x, 180°, right hand</string>
+    <string name="pen_offset_y_h1_r2_title_head">Pen offset y, 180°, right hand</string>
+    <string name="pen_offset_x_h1_r3_title_head">Pen offset x, 270°, right hand</string>
+    <string name="pen_offset_y_h1_r3_title_head">Pen offset y, 270°, right hand</string>
+
+    <string name="pen_offset_x_h0_r0_summary_head">Pen offset to the right, orientation: portrait, hand: left</string>
+    <string name="pen_offset_y_h0_r0_summary_head">Pen offset downwards, orientation: portrait, hand: left</string>
+    <string name="pen_offset_x_h0_r1_summary_head">Pen offset to the right, orientation: landscape (counterclockwise), hand: left</string>
+    <string name="pen_offset_y_h0_r1_summary_head">Pen offset downwards, orientation: landscape (counterclockwise), hand: left</string>
+    <string name="pen_offset_x_h0_r2_summary_head">Pen offset to the right, orientation: reverse portrait, hand: left</string>
+    <string name="pen_offset_y_h0_r2_summary_head">Pen offset downwards, orientation: reverse portrait, hand: left</string>
+    <string name="pen_offset_x_h0_r3_summary_head">Pen offset to the right, orientation: landscape (clockwise), hand: left</string>
+    <string name="pen_offset_y_h0_r3_summary_head">Pen offset downwards, orientation: landscape (clockwise), hand: left</string>
+    <string name="pen_offset_x_h1_r0_summary_head">Pen offset to the right, orientation: portrait, hand: right</string>
+    <string name="pen_offset_y_h1_r0_summary_head">Pen offset downwards, orientation: portrait, hand: right</string>
+    <string name="pen_offset_x_h1_r1_summary_head">Pen offset to the right, orientation: landscape (counterclockwise), hand: right</string>
+    <string name="pen_offset_y_h1_r1_summary_head">Pen offset downwards, orientation: landscape (counterclockwise), hand: right</string>
+    <string name="pen_offset_x_h1_r2_summary_head">Pen offset to the right, orientation: reverse portrait, hand: right</string>
+    <string name="pen_offset_y_h1_r2_summary_head">Pen offset downwards, orientation: reverse portrait, hand: right</string>
+    <string name="pen_offset_x_h1_r3_summary_head">Pen offset to the right, orientation: landscape (clockwise), hand: right</string>
+    <string name="pen_offset_y_h1_r3_summary_head">Pen offset downwards, orientation: landscape (clockwise), hand: right</string>
+
 </resources>
