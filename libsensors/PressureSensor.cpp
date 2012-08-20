@@ -132,7 +132,7 @@ int PressureSensor::readEvents(sensors_event_t* data, int count)
                 numEventReceived++;
             }
         } else {
-            LOGE("PressureSensor: unknown event (type=%d, code=%d)",
+            ALOGE("PressureSensor: unknown event (type=%d, code=%d)",
                     type, event->code);
         }
         mInputReader.next();
