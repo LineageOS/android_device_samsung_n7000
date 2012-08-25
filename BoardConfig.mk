@@ -21,6 +21,9 @@
 
 TARGET_BOARD_INFO_FILE := device/samsung/n7000/board-info.txt
 
+TARGET_SCREEN_HEIGHT := 1280
+TARGET_SCREEN_WIDTH := 800
+
 # Inline kernel building
 TARGET_KERNEL_SOURCE := kernel/samsung/smdk4210
 TARGET_KERNEL_CONFIG := cyanogenmod_n7000_defconfig
