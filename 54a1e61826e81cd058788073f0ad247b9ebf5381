@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAa3//9PQ\u003d",
+        "filename": "DeviceSettings/res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2012-11-11T23:41:54Z",
+      "side": 1,
+      "message": "Apostrophe\n\n\"avant l\u0027extinction des touches\"",
+      "revId": "54a1e61826e81cd058788073f0ad247b9ebf5381",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3//9PM\u003d",
+        "filename": "DeviceSettings/res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2012-11-11T23:41:54Z",
+      "side": 1,
+      "message": "Apostrophe + Espace avant \"!\"",
+      "revId": "54a1e61826e81cd058788073f0ad247b9ebf5381",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3//9PE\u003d",
+        "filename": "DeviceSettings/res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2012-11-11T23:41:54Z",
+      "side": 1,
+      "message": "Station d’accueil",
+      "revId": "54a1e61826e81cd058788073f0ad247b9ebf5381",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
