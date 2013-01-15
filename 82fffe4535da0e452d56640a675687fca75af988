@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcn//9Gg\u003d",
+        "filename": "extract-files.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 2874
+      },
+      "writtenOn": "2013-01-15T04:12:18Z",
+      "side": 1,
+      "message": "Shouldnt these be in prop-files.txt?\nAnd isnt libsecril-client.so opensourced?",
+      "revId": "82fffe4535da0e452d56640a675687fca75af988",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
