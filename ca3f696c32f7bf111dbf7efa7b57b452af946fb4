@@ -1,0 +1,10 @@
+Change-Id: Ica3f696c32f7bf111dbf7efa7b57b452af946fb4
+Code-Review+2: Marco Brohet <therbom@gmail.com>
+Code-Review+1: Dmitriy Chermenev <chdiman86@gmail.com>
+Code-Review+1: Pavel Kirpichyov <pavel.kirpichyov@gmail.com>
+Verified+1: Cid
+Submitted-by: Marco Brohet <therbom@gmail.com>
+Submitted-at: Mon, 04 Feb 2013 11:35:23 -0800
+Reviewed-on: http://review.cyanogenmod.org/31418
+Project: CyanogenMod/android_device_samsung_n7000
+Branch: refs/heads/cm-10.1
