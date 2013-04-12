@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAen//7/w\u003d",
+        "filename": "DeviceSettings/res/values-es/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 6020
+      },
+      "writtenOn": "2013-04-12T17:08:29Z",
+      "side": 1,
+      "message": "It also could be \"Tiempo de iluminación\". But it\u0027s up to you!",
+      "revId": "b7c300bba380ff4d765f35c4c7aa98f21dc88c83",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
