@@ -14,38 +14,37 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
     <string-array name="mdnie_scenario_entries">
-        <item>CyanogenMod (Oletus)</item>
-        <item>Käyttöliittymä</item>
+        <item>CyanogenMod (výchozí)</item>
+        <item>UI</item>
         <item>Video</item>
-        <item>Video(Lämmin)</item>
-        <item>Video(Kylmä)</item>
-        <item>Kamera</item>
-        <item>Navigointi</item>
-        <item>Galleria</item>
+        <item>Video teplé</item>
+        <item>Video studené</item>
+        <item>Fotoaparát</item>
+        <item>Navigace</item>
+        <item>Galerie</item>
         <item>VT</item>
     </string-array>
 
     <string-array name="mdnie_mode_entries">
-        <item>Dynaaminen</item>
-        <item>Standardi (Oletus)</item>
-        <item>Luonnollinen</item>
-        <item>Elokuva</item>
+        <item>Dynamický</item>
+        <item>Standardní (výchozí)</item>
+        <item>Přirozený</item>
+        <item>Film</item>
     </string-array>
 
     <string-array name="mdnie_negative_entries">
-        <item>Normaali</item>
-        <item>Käänteinen</item>
+        <item>Normální</item>
+        <item>Inverzní</item>
     </string-array>
 
     <string-array name="mdnie_outdoor_entries">
-        <item>Pois päältä (Oletus)</item>
-        <item>Päällä</item>
+        <item>Vypnuto (výchozí)</item>
+        <item>Zapnuto</item>
     </string-array>
 
     <string-array name="panel_gamma_entries">
-        <item>2.2 (Oletus)</item>
+        <item>2.2 (výchozí)</item>
         <item>1.9</item>
     </string-array>
 
@@ -53,7 +52,7 @@
         <item>10</item>
         <item>20</item>
         <item>30</item>
-        <item>50 (Oletus)</item>
+        <item>50 (výchozí)</item>
         <item>70</item>
         <item>100</item>
     </string-array>
@@ -61,25 +60,24 @@
     <string-array name="vibrator_intensity_entries">
         <item>0%</item>
         <item>25%</item>
-        <item>50% (Oletus)</item>
+        <item>50% (výchozí)</item>
         <item>75%</item>
         <item>100%</item>
     </string-array>
 
     <string-array name="hspa_entries">
-        <item>Vain UMTS</item>
-        <item>Vain HSDPA</item>
+        <item>Pouze UMTS</item>
+        <item>Pouze HSDPA</item>
         <item>HSDPA + HSUPA</item>
     </string-array>
 
     <string-array name="touchkey_timeout_entries">
-            <item>Never</item>
-            <item>1 second</item>
-            <item>2 seconds</item>
-            <item>3 seconds (Oletus)</item>
-            <item>4 seconds</item>
-            <item>5 seconds</item>
-            <item>6 seconds</item>
+        <item>Nikdy</item>
+        <item>1 sekunda</item>
+        <item>2 sekundy</item>
+        <item>3 sekundy (výchozí)</item>
+        <item>4 sekundy</item>
+        <item>5 sekund</item>
+        <item>6 sekund</item>
     </string-array>
-
 </resources>
