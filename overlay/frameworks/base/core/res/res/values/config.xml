@@ -157,4 +157,6 @@
     <!-- Boolean to enable stylus gestures -->
     <bool name="config_stylusGestures">true</bool>
 
+    <!-- Home button wake support -->
+    <bool name="config_show_homeWake">true</bool>
 </resources>
