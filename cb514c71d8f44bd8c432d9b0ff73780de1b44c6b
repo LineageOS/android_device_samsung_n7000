@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_60ef12b1",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 161,
+      "author": {
+        "id": 7096
+      },
+      "writtenOn": "2014-02-23T09:45:23Z",
+      "side": 1,
+      "message": "The comment and the value don\u0027t match, one says disable, the other enable...",
+      "revId": "cb514c71d8f44bd8c432d9b0ff73780de1b44c6b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
